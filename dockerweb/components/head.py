@@ -131,8 +131,8 @@ def headcontent():
         (
             'Red',
             '''
-            La red virtual la
-            permite comunicación entre contenedores, esto es usado en aplicaciones grandes que van a tener varios servicios, 
+            La red virtual es la que 
+            permite la comunicación entre contenedores, esto es usado en aplicaciones grandes que van a tener varios servicios, 
             es decir se crear varios contenedores de los cuales lleva el micro-servició que va a realizar (backend o la lógica del negocio).
             '''
         ),
